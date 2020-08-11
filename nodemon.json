@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGODB_PWD": "z8xmlCg1imM1WkHV",
+    "JWT_TOKEN": "this_should_be_a_longer_string"
+  }
+}
